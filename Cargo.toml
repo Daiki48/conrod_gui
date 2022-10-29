@@ -1,0 +1,9 @@
+[package]
+name = "conrod_gui"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+conrod_glium = "0.68.0"
+glium = "0.25.0"
